@@ -18,3 +18,11 @@ My objective was to load the data from the server Asynchronously in to ListView,
 I am currently having data from the yahoo finance api which returns the Json Response so, I am parding it and simply showing in to list view.
 
 Thanks to Loader Api It look so simple and ease on the phone
+
+Compile and Run
+----------------
+Inorder to compile and run you need to add "android-support-v4.jar" in to your libs folder, 
+why? because, Loader Api is been introduced from Api level 11
+
+Thanks and Happy Coding
+------------------------
